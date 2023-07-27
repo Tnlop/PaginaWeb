@@ -1,0 +1,102 @@
+/*
+selector{
+    propiedad:valor;
+    propiedad:valor;
+    propiedad:valor;
+}
+*/
+
+body{
+    /* Color de fondo */
+    background-color: #A3BFE4;
+    /* Cambio de tipografia */
+    font-family: 'Pacifico', cursive;
+    color: antiquewhite;
+}
+.main-title{
+    font-family: 'Henny Penny', cursive;
+    color: #FFC300;
+    font-size: 80px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: #e5eece;  
+
+}
+
+img{
+    /* Cambiar tamaño de imagenes */
+    /* anchura*/
+    width: 80px;
+}
+
+p{
+    /* Color del texto */
+    color: blueviolet;
+}
+
+.c-changos{
+    color: #030A0A;
+    font-family: 'Anaheim', sans-serif;
+}
+
+.menu{
+    /* Div felixible para moverse con los elementos dentro de si */
+    display: flex;
+    /* En columna */
+    flex-direction: column;
+    /*Alinear items centrados */
+    align-items: center;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 30px;
+    color: #B9A3E4
+
+    
+}
+
+a{
+    /*Color de texto */
+    color: ;
+}
+
+.foto{
+    height: 170px;
+    width: 250px
+}
+
+.tico1{
+    height: 170px;
+    width: 250px;
+    float: right;
+}
+.tico{
+    height: 250px;
+    width: 250px;
+    float: right;
+}
+.tico2{
+    height: 280px;
+    width: 250px;
+    float: right;
+}
+.m-mariposa{
+    color: #030A0A;
+    font-family: 'Anaheim', sans-serif;
+}
+.g-gato{
+    color: #030A0A ;
+    font-family: 'Anaheim', sans-serif;
+}
+.title{
+    font-family: 'Finger Paint', cursive;
+    color: #80B184 ;
+    font-size: 47px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style:dashed;
+    text-decoration-color: #e5eece; 
+}
+.mai{
+    font-family: 'Anaheim', sans-serif;
+    color:#44494C  ;
+}
